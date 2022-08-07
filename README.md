@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 
 
-Arthur Tkachenko
+# Arthur Tkachenko
+
 Tech leader with experience in different areas. Consulting teams of different sizes and
 company stages. I have a vast knowledge of building and maintaining tech projects.
 Able to form and scale development teams. During six years lifespan, I completed over
@@ -52,41 +53,48 @@ Able to form and scale development teams. During six years lifespan, I completed
   <img src="https://raw.githubusercontent.com/atherdon/atherdon/main/poker-face.jpg" width="300" height="300"/>
 </div>
 
-Big Projects History
-Topup24 - Mobile Topup system using bitcoin
-No More To-Go - Meal Planning startup
-PlanItDinner - Meal Prep startup
-Tab Business Vantage - Business assessment tool for USA Franchise 500 company
+## Big Projects History
 
-Education: Engineer's Degree, Software Development
+**Topup24** - Mobile Topup system using bitcoin
 
-Co-Founder Experience
+**No More To-Go** - Meal Planning startup
+**PlanItDinner** - Meal Prep startup
+**Tab Business Vantage** - Business assessment tool for USA Franchise 500 company
 
-netWeight Company
+**Education**: Engineer's Degree, Software Development
+
+## Co-Founder Experience
+
+### netWeight Company
 2012-2016
 Outsourcing company
 Operational Manager, Project Manager
-Arthur Tkachenko 2
 
-Groceristar Company
+
+### Groceristar Company
 2017-now
 Solutions for FoodTech startups
 Tech lead
-LLazyEmail Company
+
+### LLazyEmail Company
 2021-now
 
 Tech Infrastructure for email marketing teams
 Advisor, GrowthHacker
 Additional information
+
 Tech Writer on Medium/Hackernoon. Over 100 articles were published.
+
 Muchrack profile: https://muckrack.com/arthur-tkachenko-1
 
-Volunteering experience
+### Volunteering experience
+
 Was running an internship program for students. Selected ~100 students from 2500
 requests.
+
 Recorded six coding courses on Udemy and shared them with 8000 students for free.
 
-Links
+### Links
 Linkedin: https://www.linkedin.com/in/arthurtkachenko/
 AngelList: https://angel.co/u/arthur-tkachenko
 Facebook: https://www.facebook.com/profile.php?id=100001542389090
