@@ -58,8 +58,12 @@ Able to form and scale development teams. During six years lifespan, I completed
 **Topup24** - Mobile Topup system using bitcoin
 
 **No More To-Go** - Meal Planning startup
+
 **PlanItDinner** - Meal Prep startup
+
 **Tab Business Vantage** - Business assessment tool for USA Franchise 500 company
+
+---
 
 **Education**: Engineer's Degree, Software Development
 
