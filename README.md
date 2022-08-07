@@ -48,6 +48,10 @@ Able to form and scale development teams. During six years lifespan, I completed
 - Control over the small sales department
 - Competitors research
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/atherdon/atherdon/main/poker-face.jpg" width="300" height="300"/>
+</div>
+
 Big Projects History
 Topup24 - Mobile Topup system using bitcoin
 No More To-Go - Meal Planning startup
