@@ -100,8 +100,12 @@ Recorded six coding courses on Udemy and shared them with 8000 students for free
 
 ### Links
 Linkedin: https://www.linkedin.com/in/arthurtkachenko/
+
 AngelList: https://angel.co/u/arthur-tkachenko
+
 Facebook: https://www.facebook.com/profile.php?id=100001542389090
+
 Hackernoon: https://hackernoon.com/u/arthur.tkachenko
+
 GitHub: https://github.com/atherdon
 
