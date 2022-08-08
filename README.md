@@ -50,7 +50,7 @@ Able to form and scale development teams. During six years lifespan, I completed
 - Competitors research
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atherdon/atherdon/main/poker-face.jpg" width="300" height="300"/>
+  <img src="https://raw.githubusercontent.com/atherdon/atherdon/main/poker-face.jpg" width="300" height="350"/>
 </div>
 
 ## Big Projects History
